@@ -7,7 +7,7 @@ How to BUILD:
 mvn clean package
 
 How to RUN:
-java -jar {AppName}.jar <input_origin_file_path> <input_other_sample_file_path> <target_element_id>
+java -jar AgileEngineTask-jar-with-dependencies.jar <input_origin_file_path> <input_other_sample_file_path> <target_element_id>
 
 The third parameter is not required.
 
